@@ -1,0 +1,14 @@
+Package: cs347Poker
+Type: Package
+Title: cs347Poker - Intro to Packages
+Version: 0.1.0
+Author: student
+Maintainer: student <studentzzz@simmons.edu>
+Description: This will test some documentation and unit test
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
+RoxygenNote: 6.1.1
