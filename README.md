@@ -1,14 +1,5 @@
 # cs347Poker
----
-title: "poker347"
-author: "Marissa Magnelli"
-date: "2/5/2019"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Intro
 This package is a demo of how to document and test some functions 
